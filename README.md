@@ -1,1 +1,1 @@
-# tindog
+# tindog - Tinder for doggo
